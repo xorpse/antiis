@@ -1,0 +1,7 @@
+[package]
+name = "antiis"
+version = "0.1.0"
+authors = ["xorpse <m@anti.is>"]
+edition = "2018"
+
+[dependencies]
