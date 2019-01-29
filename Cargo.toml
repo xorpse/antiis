@@ -1,7 +1,11 @@
 [package]
-name = "antiis"
+name = "visija"
 version = "0.1.0"
-authors = ["xorpse <m@anti.is>"]
+authors = ["Sam Thomas <m@anti.is>"]
 edition = "2018"
+homepage = "https://visija.re"
+license = "MIT"
+license-file = "LICENSE"
+repository = "https://github.com/visija/visija"
 
 [dependencies]
